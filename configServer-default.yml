@@ -1,3 +1,4 @@
+debug_way: trace
 eureka:
   client:
     serviceUrl:
