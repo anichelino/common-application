@@ -4,4 +4,4 @@ eureka:
       defaultZone: http://localhost:8086/eureka/
 
 websiteToScrape: https://www.pionex.com/en/market/spot
-debug:true
+debug: true
