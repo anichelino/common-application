@@ -6,3 +6,4 @@ eureka:
 websiteToScrape: https://www.pionex.com/en/market/spot
 debug: true
 classNameOfRow: tableRow
+classNameOfCell: tableBodyCell
