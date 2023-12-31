@@ -8,3 +8,4 @@ debug: true
 initialDiv: /html/body/div[1]/div/div[3]/div[1]/div[1]/section/div[2]/main/main/div[2]/div/div[2]/div/div
 classNameOfRow: tableRow
 classNameOfCell: tableBodyCell
+divToScroll: //*[@id="app_wrap"]/div[3]/div/div[1]/section/div[2]/main/main/div[2]/div/div[2]/div/div
