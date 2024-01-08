@@ -9,3 +9,5 @@ initialDiv: /html/body/div[1]/div/div[3]/div[1]/div[1]/section/div[2]/main/main/
 classNameOfRow: tableRow
 classNameOfCell: tableBodyCell
 divToScroll: table-container___JfB_l
+scanWebSite: https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE
+apiKey: XMND0SB72RD1Q24K
